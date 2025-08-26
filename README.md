@@ -1,4 +1,4 @@
-Here’s a **professional `README.md`** for your **Book Finder (Vite + React + TailwindCSS)** project 👇
+Here’s all the required information about the project 👇
 
 ---
 
