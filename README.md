@@ -1,9 +1,7 @@
-Got it ✅ You want a **complete `README.md`** with **contributing guide, issue reporting, and pull request steps**. Here’s a polished version you can use directly in your GitHub repo:
-
-````markdown
+`````
 # 📚 Book Finder App
 
-A modern book search application built with **Vite + React + TailwindCSS**.  
+A modern book search application built with **Vite + React + TailwindCSS**.
 It uses the **[Open Library API](https://openlibrary.org/developers/api)** to let users (like Alex 📖) search books by title and explore details such as author, first publish year, subjects, languages, and availability.
 
 ---
@@ -37,7 +35,8 @@ It uses the **[Open Library API](https://openlibrary.org/developers/api)** to le
 git clone https://github.com/your-username/book-finder.git
 cd book-finder
 ```
-````
+
+
 
 ### 2. Install Dependencies
 
@@ -214,7 +213,7 @@ Here’s the full `README.md` code with **all steps** included (setup, usage, co
 ````markdown
 # 📚 Book Finder App
 
-A modern book search application built with **Vite + React + TailwindCSS**.  
+A modern book search application built with **Vite + React + TailwindCSS**.
 It uses the **[Open Library API](https://openlibrary.org/developers/api)** to let users (like Alex 📖) search books by title and explore details such as author, first publish year, subjects, languages, and availability.
 
 ---
@@ -248,7 +247,7 @@ It uses the **[Open Library API](https://openlibrary.org/developers/api)** to le
 git clone https://github.com/your-username/book-finder.git
 cd book-finder
 ```
-````
+`````
 
 ### 2. Install Dependencies
 
