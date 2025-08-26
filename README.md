@@ -117,15 +117,15 @@ https://openlibrary.org/search.json?title=harry+potter&page=1
 
 ### 🔍 Search
 
-![Search Demo](https://placehold.co/600x400?text=Search+Demo)
+![Search](./public/Search.png)
 
 ### 📑 Results
 
-![Results Demo](https://placehold.co/600x400?text=Results+Demo)
+![Results](./public/Results.png)
 
 ### ⚠️ Error Handling
 
-![Error Demo](https://placehold.co/600x400?text=Error+Demo)
+![Error](./public//Error.png)
 
 ---
 
